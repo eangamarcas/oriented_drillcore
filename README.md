@@ -5,4 +5,5 @@ This project is currently under development.
 <br><br>
 <br><br>  
 
-View example of structures in oriented drill core with Plotly online [click here](https://eangamarcas.github.io/oriented_drillcore/01-1_nb_core.html).
+View example of structures in oriented drill core with Plotly online <a href="https://eangamarcas.github.io/oriented_drillcore/01-1_nb_core.html" target="_blank">click here</a>.
+
